@@ -1,0 +1,1 @@
+{"schema_version":"1.0a","metrics":{"completion_time":1656389365071,"start_time":1656389346548},"secondary_sources":[],"name":"jsonls","primary_source":{"type":"npm","package":"vscode-langservers-extracted"}}

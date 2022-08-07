@@ -1,0 +1,1 @@
+{"secondary_sources":[],"name":"clangd","metrics":{"start_time":1656388662448,"completion_time":1656388736303},"primary_source":{"type":"github_release_file","release":"14.0.3","repo":"clangd\/clangd","file":"https:\/\/github.com\/clangd\/clangd\/releases\/download\/14.0.3\/clangd-linux-14.0.3.zip"},"schema_version":"1.0a"}

@@ -1,0 +1,44 @@
+[14:47:44.649][info] [#0:/home/qph/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:65]: Lua Lsp startup, root: 	/home/qph/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[14:47:44.649][info] [#0:/home/qph/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:66]: ROOT:	/home/qph/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[14:47:44.649][info] [#0:/home/qph/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:67]: LOGPATH:	/home/qph/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log
+[14:47:44.649][info] [#0:/home/qph/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:68]: METAPATH:	/home/qph/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta
+[14:47:44.649][info] [#0:/home/qph/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:69]: VERSION:	3.3.1
+[14:47:44.662][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 1.386 MB
+        # 00 : 1.386 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[14:47:44.768][info] [#0:script/language.lua:137]: VSC language: nil
+[14:47:44.768][info] [#0:script/language.lua:138]: LS  language: en-us
+[14:47:44.870][info] [#0:script/provider/provider.lua:55]: Load config from client	fallback
+[14:47:44.871][info] [#0:script/library.lua:207]: Init builtin library at:	nil
+[14:47:44.902][info] [#0:script/plugin.lua:80]: plugin path:	nil
+[14:47:44.902][info] [#0:script/provider/provider.lua:55]: Load config from client	fallback
+[14:47:44.903][info] [#0:script/workspace/workspace.lua:285]: Preload start:	<fallback>
+[14:47:44.903][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/qph/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta/Lua%205.4%20en-us%20utf8
+[14:47:46.669][info] [#0:script/workspace/workspace.lua:327]: Found 11 files at:	<fallback>
+[14:47:46.670][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	<fallback>
+[14:47:47.749][info] [#0:script/provider/provider.lua:167]: Server shutdown.
+[14:47:47.749][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.008] sec: <fallback>
+[14:47:47.749][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: <fallback>
+[14:47:47.749][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	<fallback>
+[14:47:47.749][info] [#0:script/workspace/workspace.lua:329]: Preload finish at:	<fallback>
+[14:47:47.777][info] [#0:script/provider/diagnostic.lua:453]: Diagnostics scope [<fallback>], files count:[12]
+[14:47:47.778][info] [#0:script/provider/provider.lua:160]: Server exited.
